@@ -12,5 +12,3 @@ github_username:  darshandsoni
 
 # Build settings
 markdown: kramdown
-
-highlighter: rouge
